@@ -1,0 +1,13 @@
+<resources>
+    <string name="visit_greeting">A little company, just for a moment</string>
+    <string name="no_reply">No reply needed · leaving in a moment</string>
+    <string name="not_now">Not now</string>
+    <string name="pause_visits">Pause visits</string>
+    <string name="layers_loading">Preparing her layers…</string>
+    <string name="layer_error">A layer could not load. Choose her again to retry.</string>
+    <string name="visit_start">A little visit · full-screen preview</string>
+    <string name="visit_restart">Restart this little visit</string>
+    <string name="visit_another">Another little visit</string>
+    <string name="visit_complete">Visit complete · tap a character to return</string>
+    <string name="quote_board">%1$s\n\nNo reply needed</string>
+</resources>
